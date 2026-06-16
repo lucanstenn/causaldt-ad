@@ -1,0 +1,5 @@
+extends = "main"
+name = "supplementary_missing30"
+
+[catchment]
+missing_rate = 0.3

@@ -1,0 +1,5 @@
+extends = "main"
+name = "ablation_forecast_only"
+
+[regulation]
+steps = 0

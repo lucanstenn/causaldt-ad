@@ -1,0 +1,10 @@
+extends = "main"
+name = "supplementary_oasis_transfer"
+
+[catchment]
+subjects = 1378
+ground_truth_edges = 36
+seed = 3
+
+[channels]
+lambda_l1 = 0.05

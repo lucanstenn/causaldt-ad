@@ -1,0 +1,5 @@
+extends = "main"
+name = "ablation_no_beta_anneal"
+
+[routing]
+beta_warmup_epochs = 0

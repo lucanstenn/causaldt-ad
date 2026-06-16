@@ -1,0 +1,5 @@
+extends = "main"
+name = "ablation_no_graph_transition"
+
+[routing]
+graph_structured = false
